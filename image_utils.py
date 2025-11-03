@@ -3,6 +3,7 @@ import requests
 import urllib3
 import numpy as np
 from typing import List, Dict, Optional
+import streamlit as st
 from config import BASE_URL
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
