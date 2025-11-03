@@ -1,6 +1,7 @@
 
 streamlit
-psycopg[binary]
+psycopg2-binary
+
 python-dotenv
 Pillow
 requests
@@ -15,4 +16,5 @@ numpy
 
 setuptools
 wheel
+
 
