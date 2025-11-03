@@ -1,18 +1,18 @@
-pip>=25.3
-setuptools>=75.0.0
-wheel>=0.44.0
 
-streamlit==1.51.0
-psycopg[binary]==3.2.3
-python-dotenv==1.0.0
-Pillow==10.1.0
-requests==2.31.0
-pandas==2.3.3
-reportlab==4.4.4
-plotly==6.3.1
-PyPDF2==3.0.1
+streamlit
+psycopg[binary]
+python-dotenv
+Pillow
+requests
+pandas
+reportlab
+plotly
+PyPDF2
 groq
 jsonschema
 urllib3
 numpy
+
+setuptools
+wheel
 
